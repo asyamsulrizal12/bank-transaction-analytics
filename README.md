@@ -55,7 +55,9 @@ It provides a clear view of key performance indicators (KPIs), transaction statu
 ---
 
 ## 📷 Screenshots
-*(Add images from your dashboard here, e.g. `![Dashboard](docs/images/dashboard.png)`)*
+<p align="center">
+  <img src="docs/Bank Transaction_page-0001.jpg" width = "500">
+</p>
 
 ---
 
